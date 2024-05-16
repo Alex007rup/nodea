@@ -1,4 +1,4 @@
-Edited by Rahul Samanta From Chitkara University.
+Edited by Suryanka Marick From Chitkara University.
 # Node.js
 
 Node.js is an open-source, cross-platform JavaScript runtime environment.
@@ -49,12 +49,6 @@ Looking for help? Check out the
   April and October every year. Releases appearing each October have a support
   life of 8 months. Releases appearing each April convert to LTS (see below)
   each October.
-* **LTS**: Releases that receive Long Term Support, with a focus on stability
-  and security. Every even-numbered major version will become an LTS release.
-  LTS releases receive 12 months of _Active LTS_ support and a further 18 months
-  of _Maintenance_. LTS release lines have alphabetically-ordered code names,
-  beginning with v4 Argon. There are no breaking changes or feature additions,
-  except in some special circumstances.
 * **Nightly**: Code from the Current branch built every 24-hours when there are
   changes. Use with caution.
 
